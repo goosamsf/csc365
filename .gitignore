@@ -1,8 +1,8 @@
-*.pdf
-*.txt
-*.out
-*.swp
-*.plist
+*
+
+!.cpp
+!.h
+
 
 
 
