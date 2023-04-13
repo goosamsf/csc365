@@ -1,0 +1,9 @@
+Test for R4 - S: RAPOSE 
+Test for R5 - S: RAPOSE B 
+Test for R6 - T: KERBS 
+Test for R7 - G : 3 
+Test for R8 - B: 51 
+Test for R9 - G: 3 L 
+Test for R9_2 - G : 3 H 
+Test for R10 - A: 3 
+Test for R11 - I:  
